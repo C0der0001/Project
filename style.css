@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
 	color: red;
     text-decoration: underline;
@@ -25,4 +26,33 @@ h3{
 
 h4{
 	text-align: center;
+=======
+h1{
+	color: red;
+    text-decoration: underline;
+    position: absolute;
+    transform: translateY(50%);
+    left: 8%;
+    top: 20%;
+    letter-spacing: 2px;
+}
+
+h2{
+	color: red;
+	text-align: center;
+	text-decoration: underline;
+}
+
+h3{
+	color: skyblue;
+	position: absolute;
+    transform: translateY(50%);
+    left: 8%;
+    top: 25%;
+    letter-spacing: 2px;
+}
+
+h4{
+	text-align: center;
+>>>>>>> 03720f802ef1c7ffddc68917995d2aa61f6695a9
 }
